@@ -1,0 +1,32 @@
+2026-11-16 21:50:48 | run LifeGraph_without_PRS | ablate_genetic=True | train 102514 val 14645
+2026-11-16 21:52:48 | Epoch 01 (119.6s) | train loss 0.3460 | val loss 0.3265 ctd 0.6657 *BEST_CTD* *BEST_LOSS*
+2026-11-16 21:54:48 | Epoch 02 (118.8s) | train loss 0.3221 | val loss 0.3210 ctd 0.6726 *BEST_CTD* *BEST_LOSS*
+2026-11-16 21:56:48 | Epoch 03 (118.7s) | train loss 0.3185 | val loss 0.3186 ctd 0.6748 *BEST_CTD* *BEST_LOSS*
+2026-11-16 21:58:48 | Epoch 04 (119.4s) | train loss 0.3167 | val loss 0.3175 ctd 0.6759 *BEST_CTD* *BEST_LOSS*
+2026-11-16 22:00:48 | Epoch 05 (119.4s) | train loss 0.3157 | val loss 0.3175 ctd 0.6764 *BEST_CTD* *BEST_LOSS*
+2026-11-16 22:02:48 | Epoch 06 (119.1s) | train loss 0.3150 | val loss 0.3163 ctd 0.6779 *BEST_CTD* *BEST_LOSS*
+2026-11-16 22:04:48 | Epoch 07 (119.2s) | train loss 0.3144 | val loss 0.3161 ctd 0.6782 *BEST_CTD* *BEST_LOSS*
+2026-11-16 22:06:48 | Epoch 08 (119.2s) | train loss 0.3139 | val loss 0.3161 ctd 0.6791 *BEST_CTD*
+2026-11-16 22:08:48 | Epoch 09 (119.3s) | train loss 0.3135 | val loss 0.3157 ctd 0.6790 *BEST_LOSS*
+2026-11-16 22:10:46 | Epoch 10 (117.2s) | train loss 0.3132 | val loss 0.3154 ctd 0.6794 *BEST_CTD* *BEST_LOSS*
+2026-11-16 22:12:43 | Epoch 11 (116.6s) | train loss 0.3129 | val loss 0.3156 ctd 0.6797 *BEST_CTD*
+2026-11-16 22:14:41 | Epoch 12 (117.2s) | train loss 0.3126 | val loss 0.3155 ctd 0.6793
+2026-11-16 22:16:38 | Epoch 13 (116.4s) | train loss 0.3122 | val loss 0.3154 ctd 0.6802 *BEST_CTD*
+2026-11-16 22:18:33 | Epoch 14 (115.6s) | train loss 0.3119 | val loss 0.3154 ctd 0.6793
+2026-11-16 22:20:29 | Epoch 15 (115.4s) | train loss 0.3116 | val loss 0.3152 ctd 0.6793 *BEST_LOSS*
+2026-11-16 22:22:26 | Epoch 16 (116.1s) | train loss 0.3113 | val loss 0.3152 ctd 0.6785 *BEST_LOSS*
+2026-11-16 22:24:23 | Epoch 17 (116.2s) | train loss 0.3110 | val loss 0.3150 ctd 0.6790 *BEST_LOSS*
+2026-11-16 22:26:19 | Epoch 18 (115.9s) | train loss 0.3108 | val loss 0.3149 ctd 0.6789 *BEST_LOSS*
+2026-11-16 22:28:17 | Epoch 19 (117.9s) | train loss 0.3105 | val loss 0.3152 ctd 0.6784
+2026-11-16 22:30:15 | Epoch 20 (117.4s) | train loss 0.3103 | val loss 0.3152 ctd 0.6779
+2026-11-16 22:32:11 | Epoch 21 (116.3s) | train loss 0.3100 | val loss 0.3150 ctd 0.6782
+2026-11-16 22:34:07 | Epoch 22 (115.8s) | train loss 0.3098 | val loss 0.3151 ctd 0.6776
+2026-11-16 22:36:05 | Epoch 23 (117.0s) | train loss 0.3096 | val loss 0.3152 ctd 0.6770
+2026-11-16 22:38:02 | Epoch 24 (117.0s) | train loss 0.3094 | val loss 0.3151 ctd 0.6766
+2026-11-16 22:40:00 | Epoch 25 (118.3s) | train loss 0.3092 | val loss 0.3152 ctd 0.6760
+2026-11-16 22:41:59 | Epoch 26 (118.2s) | train loss 0.3091 | val loss 0.3152 ctd 0.6761
+2026-11-16 22:43:54 | Epoch 27 (115.6s) | train loss 0.3090 | val loss 0.3152 ctd 0.6762
+2026-11-16 22:45:50 | Epoch 28 (115.3s) | train loss 0.3089 | val loss 0.3153 ctd 0.6761
+2026-11-16 22:47:46 | Epoch 29 (115.4s) | train loss 0.3088 | val loss 0.3153 ctd 0.6760
+2026-11-16 22:49:44 | Epoch 30 (117.7s) | train loss 0.3088 | val loss 0.3153 ctd 0.6760
+2026-11-16 22:49:44 | done | best val C-td 0.6802 | best val loss 0.3149
